@@ -35,7 +35,7 @@ namespace GutenbergOne
         public Radio()
         {
             this.InitializeComponent();
-            FillGroceries();
+            FillGroceries(); 
 
             MakeThePrintOut();
 
