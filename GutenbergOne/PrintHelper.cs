@@ -7,6 +7,9 @@ using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Printing;
 
+
+//This page is straight from Microsoft's UWP Printing Example, only change I think is the namespace, made it the namespace of the project.  And also
+//removed the SDKTemplate in the using.
 namespace GutenbergOne
 {
     public class PrintHelper

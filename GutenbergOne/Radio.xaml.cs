@@ -15,6 +15,8 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+////This page's XAML is straight from Microsoft's UWP Printing Example, only change to the XAML is that I added a stackPanel and removed the RichTextBlock
+// This is because I build the RichTextBlock programatically in the .cs of the page.  This is mostly mine.  Note the use of a the fixed width font.
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -40,38 +42,7 @@ namespace GutenbergOne
             MakeThePrintOut();
 
 
-            /*
-            RichTextBlock gutOne = new RichTextBlock();
-            gutOne.Foreground = new SolidColorBrush(Windows.UI.Colors.Black);
-            gutOne.FontSize = 18;
-            // gutOne.OverflowContentTarget = FirstLinkedContainer;
-            gutOne.FontFamily = new FontFamily("Courier New");
-            //gutOne.Tag = "Grid.Row=\"1\" Grid.ColumnSpan=\"2\" ";
-            gutOne.VerticalAlignment = VerticalAlignment.Top;
-            gutOne.HorizontalAlignment = HorizontalAlignment.Left;
-
-            Paragraph para = new Paragraph();
-            // para.Margin = new Thickness(5);
-
-            Run ran = new Run();
-            ran.Text = "     Meats";
-            para.Inlines.Add(ran);
-            gutOne.Blocks.Add(para);
-
-            Paragraph para2 = new Paragraph();
-            //  para2.Margin = new Thickness(65);
-
-            Run ran2 = new Run();
-            ran2.Text = "          [] Pork Butt                                                             [] Hamburger";
-            para2.Inlines.Add(ran2);
-
-
-
-
-            gutOne.Blocks.Add(para2);
-
-
-            ContentStack.Children.Add(gutOne);*/
+            
 
         }
         public void FillGroceries()
@@ -179,44 +150,8 @@ namespace GutenbergOne
             RichTextBlock gutOne = initBlock();
             PopulateBlock(gutOne);
             ContentStack.Children.Add(gutOne);
-            /* RichTextBlock gutOne = new RichTextBlock();
-             gutOne.Foreground = new SolidColorBrush(Windows.UI.Colors.Black);
-             gutOne.FontSize = 18;
-             gutOne.OverflowContentTarget = FirstLinkedContainer;
-             gutOne.FontFamily = new FontFamily("Courier New");
-             gutOne.VerticalAlignment = VerticalAlignment.Top;
-             gutOne.HorizontalAlignment = HorizontalAlignment.Left;
-
-     */
-
-
-
-
-            /*
-
-                        Paragraph para = new Paragraph();
-                        // para.Margin = new Thickness(5);
-
-                        Run ran = new Run();
-                        ran.Text = "     Meats";
-                        para.Inlines.Add(ran);
-                        gutOne.Blocks.Add(para);
-
-                        Paragraph para2 = new Paragraph();
-                        //  para2.Margin = new Thickness(65);
-
-                        Run ran2 = new Run();
-                        ran2.Text = "        [] Pork Butt                 [] Hamburger";
-                        para2.Inlines.Add(ran2);
-
-
-
-
-                        gutOne.Blocks.Add(para2);
-
-                */
-
-            // TextContent. = gutOne;
+           
+            
         }
         private RichTextBlock initBlock()
         {
@@ -280,22 +215,7 @@ namespace GutenbergOne
                 }
 
                
-                //  para.Inlines.Add(ran);
-                // Blocker.Blocks.Add(para);
-
-              /*  Paragraph para2 = new Paragraph();
-                    //  para2.Margin = new Thickness(65);
-
-                    Run ran2 = new Run();
-                    ran2.Text = "        [] Pork Butt                 [] Hamburger";
-                    para2.Inlines.Add(ran2);
-
-    */
-
-
-                  //  Blocker.Blocks.Add(para2);
-
-
+                
 
 
                 }

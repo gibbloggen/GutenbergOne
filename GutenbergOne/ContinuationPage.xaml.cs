@@ -1,5 +1,8 @@
 ﻿using Windows.UI.Xaml.Controls;
 
+
+//This page is straight from Microsoft's UWP Printing Example, only change I think is the namespace, made it the namespace of the project.  And also
+//removed the SDKTemplate in the using.  I have not tested multiple pages yet.
 namespace GutenbergOne
 {
     /// <summary>

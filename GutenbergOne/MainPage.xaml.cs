@@ -63,7 +63,8 @@ namespace GutenbergOne
 
             // Initialize print content for this scenario
 
-          
+          //This is where you put your form in.  Of note, you can pass this form data from other parts of the program
+          //As done in the Essential Grocer program, that this was prototyping for.
             printHelper.PreparePrintContent(new Radio());
         }
 

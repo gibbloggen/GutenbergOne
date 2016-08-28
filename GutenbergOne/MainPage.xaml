@@ -14,6 +14,8 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="Auto"/>
             </Grid.RowDefinitions>
+            
+            <!-- This PrintCanvas here is essential.  It needs to be on the page that you are registering to.-->
             <Canvas x:Name="PrintCanvas" Opacity="0"/>
             <StackPanel Margin="0,0,0,10">
                 <TextBlock Text="Description:" />
