@@ -35,14 +35,14 @@
             IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Segoe UI" VerticalAlignment="Top" HorizontalAlignment="Left" Visibility="Collapsed"/>
 
 
-        <StackPanel Name="ContentStack" Grid.Row="1" Grid.ColumnSpan="2" />
+        <!--<StackPanel Name="ContentStack" Grid.Row="1" Grid.ColumnSpan="2" Grid.RowSpan="3" />-->
 
 
-        <!--<RichTextBlock Foreground="Black"    x:Name="TextContent" />
+        <!--<RichTextBlock Foreground="Black"    x:Name="TextContent" />-->
 
         <RichTextBlock Foreground="Black"    x:Name="TextContent" FontSize="18" Grid.Row="1"  Grid.ColumnSpan="2" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
             IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Courier New" VerticalAlignment="Top" HorizontalAlignment="Left"  >
-            <Paragraph Margin="5,0,0,0">
+           <!-- <Paragraph Margin="5,0,0,0">
                 Meats:
             </Paragraph>
             <Paragraph Margin="65,0,0,0">
@@ -77,9 +77,9 @@
             </Paragraph>
             <Paragraph Margin="65,0,0,0">
                 <Run Text="[]Butter                              []Sour Cream" />
-            </Paragraph>
+            </Paragraph>-->
 
-        </RichTextBlock>-->
+        </RichTextBlock>
 
         <!--<RichTextBlock Foreground="Black" x:Name="TextContent" FontSize="18" Grid.Row="1"  Grid.ColumnSpan="2" OverflowContentTarget="{Binding ElementName=FirstLinkedContainer}"
             IsTextSelectionEnabled="True" TextAlignment="Left" FontFamily="Segoe UI" VerticalAlignment="Top" HorizontalAlignment="Left">

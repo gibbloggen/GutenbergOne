@@ -54,6 +54,664 @@ namespace GutenbergOne
 
             j = new Grocery();
             j.Isle = "Produce";
+            j.Item = "Apple45";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Avacodo";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Bannana";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Cantaloupe";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Corn";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Edamame";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Kale";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Avacodo";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Bannana";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Cantaloupe";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Corn";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Edamame";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Kale";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Butter";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Cottage Cheese";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Chocolate Milk";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Half-N-Half";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Heavy Cream";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Eggs";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Skim Milk";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Sour Cream";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Yogurt";
+            Grocs.Add(j);
+
+
+
+
+            j = new Grocery();
+            j.Isle = "Paper";
+            j.Item = "Napkins";
+            Grocs.Add(j);
+
+
+         
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Butter";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Cottage Cheese";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Chocolate Milk";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Half-N-Half";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Heavy Cream";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Eggs";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Skim Milk";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Sour Cream";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Yogurt";
+            Grocs.Add(j);
+
+
+
+
+            j = new Grocery();
+            j.Isle = "Paper";
+            j.Item = "Napkins";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Apple";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Avacodo";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Bannana";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Cantaloupe";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Corn";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Edamame";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Kale";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Butter";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Cottage Cheese";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Chocolate Milk";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Half-N-Half";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Heavy Cream";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Eggs";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Skim Milk";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Sour Cream";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Yogurt";
+            Grocs.Add(j);
+
+
+
+
+            j = new Grocery();
+            j.Isle = "Paper";
+            j.Item = "Napkins";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Apple";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Avacodo";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Bannana";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Cantaloupe";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Corn";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Edamame";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Kale";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Butter";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Cottage Cheese";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Chocolate Milk";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Half-N-Half";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Heavy Cream";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Eggs";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Skim Milk";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Sour Cream";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Yogurt";
+            Grocs.Add(j);
+
+
+
+
+            j = new Grocery();
+            j.Isle = "Paper";
+            j.Item = "Napkins";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Apple";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Avacodo";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Bannana";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Cantaloupe";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Corn";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Edamame";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Kale";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Butter";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Cottage Cheese";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Chocolate Milk";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Half-N-Half";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Heavy Cream";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Eggs";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Skim Milk";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Sour Cream";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Yogurt";
+            Grocs.Add(j);
+
+
+
+
+            j = new Grocery();
+            j.Isle = "Paper";
+            j.Item = "Napkins";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Apple";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Avacodo";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Bannana";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Cantaloupe";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Corn";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Edamame";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Kale";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Butter";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Cottage Cheese";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Chocolate Milk";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Half-N-Half";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Heavy Cream";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Eggs";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Skim Milk";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Sour Cream";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Yogurt";
+            Grocs.Add(j);
+
+
+
+
+            j = new Grocery();
+            j.Isle = "Paper";
+            j.Item = "Napkins";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Apple";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Avacodo";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Bannana";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Cantaloupe";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Corn";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Edamame";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Kale";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Butter";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Cottage Cheese";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Chocolate Milk";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Half-N-Half";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Heavy Cream";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Eggs";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Skim Milk";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Sour Cream";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Dairy";
+            j.Item = "Yogurt";
+            Grocs.Add(j);
+
+
+
+
+            j = new Grocery();
+            j.Isle = "Paper";
+            j.Item = "Napkins";
+            Grocs.Add(j);
+
+
+            j = new Grocery();
+            j.Isle = "Produce";
+            j.Item = "Apple";
+            Grocs.Add(j);
+
+            j = new Grocery();
+            j.Isle = "Produce";
             j.Item = "Avacodo";
             Grocs.Add(j);
 
@@ -147,9 +805,9 @@ namespace GutenbergOne
         {
 
 
-            RichTextBlock gutOne = initBlock();
-            PopulateBlock(gutOne);
-            ContentStack.Children.Add(gutOne);
+           // RichTextBlock gutOne = initBlock();
+            PopulateBlock(TextContent);
+           // ContentStack.Children.Add(Te);
            
             
         }
@@ -159,7 +817,17 @@ namespace GutenbergOne
             RichTextBlock gutInitBlock = new RichTextBlock();
             gutInitBlock.Foreground = new SolidColorBrush(Windows.UI.Colors.Black);
             gutInitBlock.FontSize = 18;
-            gutInitBlock.OverflowContentTarget = FirstLinkedContainer;
+
+
+            Binding myBinding = new Binding();
+           myBinding.Source = "OverflowContentTargetProperty";
+           myBinding.ElementName = "ContinuationPageLinkedContainer";
+
+            //gutInitBlock.OverflowContentTarget.SetBinding(myBinding);
+          //  gutInitBlock.SetBinding(OverflowContentTargetProperty, myBinding);
+
+
+
             gutInitBlock.FontFamily = new FontFamily("Courier New");
             gutInitBlock.VerticalAlignment = VerticalAlignment.Top;
             gutInitBlock.HorizontalAlignment = HorizontalAlignment.Left;
